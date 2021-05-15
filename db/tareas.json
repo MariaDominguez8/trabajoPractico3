@@ -1,0 +1,19 @@
+[
+  { "titulo": "Planificacion y logistica", "estado": "en progreso" },
+  { "titulo": "Cocinar y planear comidas", "estado": "en progreso" },
+  { "titulo": "Cuidar el gato", "estado": "terminada" },
+  { "titulo": "Limpiar la cocina", "estado": "terminada" },
+  { "titulo": "Limpiar el baño", "estado": "terminada" },
+  { "titulo": "Limpiar el suelo", "estado": "pendiente" },
+  { "titulo": "Sacar la basura", "estado": "pendiente" },
+  { "titulo": "Lavar los platos", "estado": "en progreso" },
+  { "titulo": "Ordenar la alacena", "estado": "pendiente" },
+  { "titulo": "Cambiar las toallas", "estado": "terminada" },
+  { "titulo": "Limpiar el microondas", "estado": "pendiente" },
+  { "titulo": "Quitar el polvo de las mesas", "estado": "en progreso" },
+  { "titulo": "Darle de comer al perro", "estado": "terminada" },
+  { "titulo": "Estudiar", "estado": "en progreso" },
+  { "titulo": "Darle de comer a los conejos", "estado": "pendiente" },
+  { "titulo": "Completar ejercicios de PG", "estado": "pendiente" },
+  { "titulo": "Darle de comer al gato", "estado": "en progreso" }
+]
